@@ -14,7 +14,7 @@
     - Bouton de suppression d'un ville de la liste des favoris
 
 
-ZAKARIA : Pour utiliser l'api il faut une key que je t'ai envoyé sur discord.
+ZAKARIA : Pour utiliser l'api il faut une key que je t'ai envoyé sur discord (LeSr).
 Il faut la mettre dans le fichier '../src/services/api.service.js' sur la variable 'apiKey'.
 
 Un souci rencontré et pas encore reglé :
