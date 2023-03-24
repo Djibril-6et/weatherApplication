@@ -12,11 +12,12 @@
 - **Page Favoris** : 
     - ScrollView affichant les villes favorites ou Text indiquant qu'il n'y en a pas
     - Bouton de suppression d'un ville de la liste des favoris
-
+    
+Fichier vidéo (mp4 à la racine du projet)
 
 ZAKARIA : Pour utiliser l'api il faut une key que je t'ai envoyé sur discord (LeSr).
 Il faut la mettre dans le fichier '../src/services/api.service.js' sur la variable 'apiKey'.
 
 Un souci rencontré et pas encore reglé :
 
-    - Les villes de la liste des favoris se mettent en "undefined" lorsqu'on quitte et reviens sur la page
+Les villes de la liste des favoris se mettent en "undefined" lorsqu'on quitte et reviens sur la page
