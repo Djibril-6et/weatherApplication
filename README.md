@@ -16,3 +16,7 @@
 
 ZAKARIA : Pour utiliser l'api il faut une key que je t'ai envoyé sur discord (LeSr).
 Il faut la mettre dans le fichier '../src/services/api.service.js' sur la variable 'apiKey'.
+
+Un souci rencontré et pas encore reglé :
+
+    - Les villes de la liste des favoris se mettent en "undefined" lorsqu'on quitte et reviens sur la page
